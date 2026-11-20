@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/krishnak17561-gif/jeetex/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnak17561-gif/jeetex/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/krishnak17561-gif/jeetex/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnak17561-gif/jeetex/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/krishnak17561-gif/jeetex/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/krishnak17561-gif/jeetex/tree/master/0143-reorder-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishnak17561-gif/jeetex/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/krishnak17561-gif/jeetex/tree/master/0085-maximal-rectangle) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/krishnak17561-gif/jeetex/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
