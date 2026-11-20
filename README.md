@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/krishnak17561-gif/jeetex/tree/master/0085-maximal-rectangle) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishnak17561-gif/jeetex/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnak17561-gif/jeetex/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/krishnak17561-gif/jeetex/tree/master/0085-maximal-rectangle) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnak17561-gif/jeetex/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -34,8 +36,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnak17561-gif/jeetex/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/krishnak17561-gif/jeetex/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnak17561-gif/jeetex/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/krishnak17561-gif/jeetex/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/krishnak17561-gif/jeetex/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
