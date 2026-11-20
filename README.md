@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishnak17561-gif/jeetex/tree/master/0054-spiral-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnak17561-gif/jeetex/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/krishnak17561-gif/jeetex/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishnak17561-gif/jeetex/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishnak17561-gif/jeetex/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
